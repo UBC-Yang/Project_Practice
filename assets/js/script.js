@@ -13,5 +13,3 @@ document.getElementById('decreaseBtn').addEventListener('click', function() {
       quantityInput.value = currentValue + 1;
     }
   });
-
-  
